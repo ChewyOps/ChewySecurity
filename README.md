@@ -11,4 +11,4 @@ Relevant Documents:
 - [Security Assessment Report](CumulusSecSAR.pdf)
 - [Cloud Security Policy](https://docs.google.com/document/d/16GAqKKi2LsY-ohSRKr049tkfJKsHHafZZA1qXBAw16s/edit?usp=sharing)
 
-- ![Topology](Topology.jpg)
+![Topology](Topology.jpg)
